@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\bin\Debug\net8.0\testeTecnico.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\bin\Debug\net8.0\testeTecnico.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\bin\Debug\net8.0\testeTecnico.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\bin\Debug\net8.0\testeTecnico.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\bin\Debug\net8.0\testeTecnico.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\refint\testeTecnico.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\testeTecnico.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\testeTecnico\obj\Debug\net8.0\ref\testeTecnico.dll
